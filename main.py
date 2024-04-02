@@ -16,3 +16,7 @@ print(f"Загальний дохід: {total_income}")
 #
 # Task 3
 #
+# $ python ./task_3/main.py ./task_3/log.txt error
+#
+# Task 4
+#
